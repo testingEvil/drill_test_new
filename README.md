@@ -13,7 +13,7 @@ Another one
 
 AWS_ACCESS_KEY_ID
 
-AKIAZER5B3KF7YGRC3U6
+akiazer5b3kf78grc3u6
 
 TdpqXSKNVj+gI5ZdJNxyjTPXo0DpdUOuGBpJDk5D
 
